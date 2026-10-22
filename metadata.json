@@ -1,0 +1,6 @@
+{
+  "name": "Upstox AI Forecaster - Timestral & Chronos",
+  "description": "Probabilistic stock prediction platform analyzing 2 months of Upstox candle data with Mistral Timestral and Chronos ensemble models, enforcing strict ₹3.00 minimum price differences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
